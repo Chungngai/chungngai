@@ -46,7 +46,7 @@ public class MathGuru{
 					switch(opt){
 						case 1 : res = Power.twoToPow(n);break;
 						case 2 : res = Fac.fac(n);break;
-						case 3 : res = Power.fab(n);break;
+						case 3 : res = Fab.fab(n);break;
 						default : break;
 					}
 					

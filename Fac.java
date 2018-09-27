@@ -1,7 +1,7 @@
 import java.util.*;
 public class Fac
 {
-public int fac(int n)
+public static int fac(int n)
 {
 int num =n;
 int result = 1;

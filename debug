@@ -1,0 +1,4 @@
+Use long start = System.nanoTime();
+		InsertionSort.insertionSort(array);
+		long end = System.nanoTime();
+Then we print (end - start) ,we will know this function nano time usage.
